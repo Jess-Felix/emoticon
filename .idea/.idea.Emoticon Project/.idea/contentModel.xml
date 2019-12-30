@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jessica\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jessica\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Emoticon Project.-1290611724.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jessica\Documents\02_Mestrado_Multimedia\LM - Class\Emoticon Project\Emoticon Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Hologram Pyramid" t="Include">
+          <e p="Docs" t="Include">
+            <e p="ChangeLog.txt" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="HologramManager.cs" t="Include" />
+            <e p="Holomap.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Emoticon Project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

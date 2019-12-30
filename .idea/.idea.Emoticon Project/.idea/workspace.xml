@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa9c0402-13cf-433b-bd03-6074ce5dabce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Faded Project/supreme-dev-lab/Assets/Scripts/PlatformCollapse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3161F140-D471-46B2-BA3B-4979FC7D2B16/2c/352a39e2/VideoSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58C54DEF-84EA-4B3B-B28C-35158ED32599/56/a6a3160c/Enum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vc6OVxRJTnSeVA3Xgsf6wPrvOc" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="1372">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="1372" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9c0402-13cf-433b-bd03-6074ce5dabce" name="Default Changelist" comment="" />
+      <created>1577540009523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577540009523</updated>
+      <workItem from="1577540029973" duration="32594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>70</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="71">
+            <startOffsets>
+              <option value="1745" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1765" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>123</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="124">
+            <startOffsets>
+              <option value="3393" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3422" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>135</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="136">
+            <startOffsets>
+              <option value="3685" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3715" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>144</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="145">
+            <startOffsets>
+              <option value="4129" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4159" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>90</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="91">
+            <startOffsets>
+              <option value="2209" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2232" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>94</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="95">
+            <startOffsets>
+              <option value="2418" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2483" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>152</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="153">
+            <startOffsets>
+              <option value="4278" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4307" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs</url>
+          <line>107</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Hologram Pyramid/Scripts/Holomap.cs" initialLine="108">
+            <startOffsets>
+              <option value="2861" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2922" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="newEmotion" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
