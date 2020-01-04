@@ -13,18 +13,19 @@ public class Holomap : MonoBehaviour
     private const int CALM = 3;
     private const int LOAD = 4;
     */
-    
+
     enum Emotion
     {
-        Happy = 0,
-        Sad = 1,
-        Angry = 2,
-        Calm = 3,
-        Load = 4
+        Load = 0,
+        Happy = 1,
+        Calm = 2,
+        Angry = 3,
+        Sad = 4
+
     }
 
-    public float minPlaytime=1.8f;
-    public float maxPlaytime =10.0f;
+    public float minPlaytime = 2.5f;
+    public float maxPlaytime = 10.0f;
         
     public VideoPlayer videoPlayer;
     public VideoClip loopLoading, fadeOutLoading, fadeInLoading, loopSad, fadeOutSad, fadeInSad, loopHappy, fadeOutHappy,
@@ -71,12 +72,14 @@ public class Holomap : MonoBehaviour
             UpdateCurrentEmotion((int)Emotion.Load);
         }
         
-        Debug.Log(currentTime + " / " + maxPlaytime);
+      //  Debug.Log(currentTime + " / " + maxPlaytime);
     }
-    
-    void UpdateCurrentEmotion(int newEmotion)
+
+    public void UpdateCurrentEmotion(int newEmotion)
     {
-        if (currentTime > minPlaytime) // TODO: do not accept new emotion if == to current
+        if (!startNewEmotionAnim && !isTransitioning &&
+            currentTime > minPlaytime &&
+            newEmotion != currentEmotion) // TODO: do not accept new emotion if == to current
         { 
             nextEmotion = newEmotion;
             startNewEmotionAnim = true;
